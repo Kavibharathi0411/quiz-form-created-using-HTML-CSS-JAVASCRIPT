@@ -1,4 +1,4 @@
- function red1(){
+function red1(){
     document.getElementsByClassName("red1")[0].style.backgroundColor="red";
 }
 function red2(){
@@ -11,16 +11,16 @@ function red4(){
     document.getElementsByClassName("red4")[0].style.backgroundColor="red";
 }
 function red5(){
-    document.getElementsByClassName("red6")[0].style.backgroundColor="red";
+    document.getElementsByClassName("red5")[0].style.backgroundColor="red";
 }
 function red6(){
-    document.getElementsByClassName("red1")[0].style.backgroundColor="red";
+    document.getElementsByClassName("red6")[0].style.backgroundColor="red";
 }
 function green1(){
-    document.getElementsByClassName("green1")[0].style.backgroundColor="red";
+    document.getElementsByClassName("green1")[0].style.backgroundColor="green";
 }
 function green2(){
-    document.getElementsByClassName("green2")[0].style.backgroundColor="red";
+    document.getElementsByClassName("green2")[0].style.backgroundColor="green";
 }
  
  
